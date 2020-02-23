@@ -1,5 +1,5 @@
 # kbradley.github.io
 
 ## Github pages:
-* Bricks living style guide docs:<br>
+* Layout CSS library: living style guide:<br>
 https://kbradley.github.io/bricks/
